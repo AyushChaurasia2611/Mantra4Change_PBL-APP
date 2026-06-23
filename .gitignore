@@ -1,0 +1,17 @@
+# Node
+node_modules/
+pbl-app/node_modules/
+pbl-app/dist/
+*.log
+
+# Environment variables
+.env
+.env.local
+pbl-app/.env
+pbl-app/.env.local
+
+# Editor / System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
